@@ -1,0 +1,17 @@
+h4 {
+  margin-left: 12px;
+}
+ul {
+  list-style: none;
+}
+.contact-info i[class*="fa-"]{
+  width: 24px;
+}
+.social-contact a {
+  text-decoration: none;
+  color: black;
+}
+.social-contact i {
+  font-size: 40px;
+  margin: 20px;
+}
